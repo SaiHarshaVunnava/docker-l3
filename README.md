@@ -3,7 +3,7 @@
 This repo contains a minimal multi-container app:
  **web**: Python Flask app
  **redis**: in-memory cache
- **postgres**: database (separate container run manually as per assignment)
+ **postgres**: database 
 
 ## How to Run
 
